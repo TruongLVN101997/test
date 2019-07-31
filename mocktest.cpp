@@ -3,7 +3,4 @@
 skdkasjd
 askdjaskd;
 alsdkjlas;
-akdgjdfjg
-asdsad
-asd
-;
+akdgjdfjg;
